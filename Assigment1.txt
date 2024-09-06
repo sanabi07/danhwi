@@ -1,5 +1,5 @@
 1.Convert the following numbers from binary to decimal.
-a) 1001100
-b) 11101
-c) 101001
-d) 1010111
+a) 1001100 76
+b) 11101 29 
+c) 101001 41
+d) 1010111 87
